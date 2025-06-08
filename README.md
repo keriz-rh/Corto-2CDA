@@ -1,10 +1,11 @@
-```markdown
+
 # Proyecto de Métodos Numéricos - RH16042
 ## Autor
+```
 Kevin Armando Rivera Henríquez - RH16042  
 Universidad de El Salvador - Ciclo I/2025  
 Cálculo Numérico para Desarrollo de Aplicaciones
-
+```
 ## Descripción
 Este proyecto implementa diversos métodos numéricos para:
 - Evaluación polinomial (Horner)
@@ -13,6 +14,7 @@ Este proyecto implementa diversos métodos numéricos para:
 - Regresión lineal por mínimos cuadrados
 
 ## Estructura del Proyecto
+```m
 RH16042/
 │
 ├── main.py                 # Programa principal con menú interactivo
