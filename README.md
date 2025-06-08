@@ -25,7 +25,7 @@ RH16042/
 │   ├── interpolacion.py    # Interpolación lineal y Lagrange
 │   └── regresion.py        # Regresión lineal
 ├── requirements.txt        # Dependencias
-└── README.md               # Este archivo
+└── README.md               
 ```
 
 ## Requisitos
