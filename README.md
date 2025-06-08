@@ -117,7 +117,7 @@ Coeficiente para x^1: 3
 Coeficiente para x^0: -5
 Valor de x para evaluar: 2
 
-Resultado: f(2) = 5.0
+Resultado: f(2) = 1.0
 ```
 
 ## Ejemplo 2: Método de Müller (Opción 2)
@@ -134,12 +134,13 @@ Ingrese tres puntos iniciales:
 x0: 0
 x1: 1
 x2: 2
+Iteración 1: x = (0.7661903789690601+0j)
+Iteración 2: x = (0.7175885938623555+0j)
+Iteración 3: x = (0.7212741948787481+0j)
+Iteración 4: x = (0.7212304541756416+0j)
+Iteración 5: x = (0.7212304526956712+0j)
 
-Iteración 1: x = (0.6666666666666666+0j)
-Iteración 2: x = (0.7236842105263158+0j)
-Iteración 3: x = (0.721124885216056+0j)
-
-Raíz encontrada: (0.721124885216056+0j)
+Raíz encontrada: (0.7212304526956712+0j)
 ```
 
 ## Ejemplo 3: Interpolación Lineal (Opción 3)
@@ -154,7 +155,7 @@ Valor de y: 5
 Valor de x: 
 Valor de x para interpolar: 2
 
-Valor interpolado en x=2: 3.5
+Valor interpolado en x=2.0: 3.5
 ```
 
 ## Ejemplo 4: Evaluación con Lagrange (Opción 4)
@@ -188,8 +189,8 @@ Valor de y: 4
 Valor de x: 
 
 Coeficientes del polinomio (de mayor a menor grado):
-x^2: 1.5
-x^1: -2.5
+x^2: 2.0
+x^1: -3.0
 x^0: 2.0
 ```
 
@@ -209,7 +210,7 @@ Valor de y: 5
 Valor de x: 
 
 Ecuación de la recta: y = 1.2000x + 0.0000
-Coeficiente de determinación (R²): 0.9231
+Coeficiente de determinación (R²): 0.9000
 
 Nota: El término independiente es aproximadamente cero
 lo que indica que la recta pasa cerca del origen (0,0).
