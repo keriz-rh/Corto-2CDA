@@ -14,7 +14,7 @@ Este proyecto implementa diversos métodos numéricos para:
 - Regresión lineal por mínimos cuadrados
 
 ## Estructura del Proyecto
-```m
+```
 RH16042/
 │
 ├── main.py                 # Programa principal con menú interactivo
