@@ -1,4 +1,4 @@
-```
+```markdown
 # Proyecto de Métodos Numéricos - RH16042
 ## Autor
 Kevin Armando Rivera Henríquez - RH16042  
